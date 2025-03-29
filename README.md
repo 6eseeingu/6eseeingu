@@ -22,3 +22,4 @@ Update API endpoint
 Fix typo in README
 Optimize loop
 Update API endpoint
+Polish UI layout
