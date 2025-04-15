@@ -20,3 +20,4 @@ Refactor core logic
 Change theme color
 Update API endpoint
 Fix typo in README
+Optimize loop
