@@ -27,3 +27,4 @@ Add documentation
 Update configuration
 Improve logging
 Fix typo in README
+Refactor core logic
