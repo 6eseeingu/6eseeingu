@@ -26,3 +26,4 @@ Polish UI layout
 Add documentation
 Update configuration
 Improve logging
+Fix typo in README
